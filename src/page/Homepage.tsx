@@ -5,9 +5,9 @@ import Header from '../component/molecules/Header'
 function Homepage() {
   return (
     <div className="container">
-        <div className="row">
+       
         <Header/>
-        </div>
+        
     
         <div className="row">
             <TopCarousel/>

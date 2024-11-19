@@ -1,4 +1,5 @@
 .montserrat-head {
+  white-space: nowrap;
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: none;
   font-weight: 899;
@@ -7,5 +8,9 @@
 }
 .header-row{
   background-color: #071018;
+  margin: 0;
   
+}
+.bg-color{
+  background-color: white;
 }
