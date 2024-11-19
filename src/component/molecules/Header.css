@@ -1,0 +1,10 @@
+.montserrat-head {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: none;
+  font-weight: 899;
+  font-style: bolder;
+  color: darkgoldenrod;
+}
+.header-row{
+  background-color: #071018;
+}
