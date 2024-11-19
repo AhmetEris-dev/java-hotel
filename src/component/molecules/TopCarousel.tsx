@@ -2,7 +2,7 @@ import React from 'react'
 
 function TopCarousel() {
   return (
-    <div id="carouselExample" className="carousel slide">
+    <div id="carouselExample" className="carousel slide m-0">
   <div className="carousel-inner">
     <div className="carousel-item active">
       <img src="https://picsum.photos/200/200" className="d-block w-100"/>
