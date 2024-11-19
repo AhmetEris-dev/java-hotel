@@ -10,16 +10,16 @@ function HeaderNavbar() {
     <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="navbar-nav ">
         <li className="nav-item">
-          <a className="nav-link active montserrat-head" aria-current="page" href="#">Home</a>
+          <a className="nav-link active" style={{color:'white'}} aria-current="page" href="#">Home</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Features</a>
+          <a className="nav-link" style={{color:'white'}} href="#">Features</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Pricing</a>
+          <a className="nav-link" style={{color:'white'}} href="#">Pricing</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link disabled" aria-disabled="true">Disabled</a>
+          <a className="nav-link" style={{color:'white'}} href="#">Disabled</a>
         </li>
       </ul>
     </div>
